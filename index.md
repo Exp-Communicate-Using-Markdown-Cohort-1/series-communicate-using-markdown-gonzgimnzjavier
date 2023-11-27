@@ -6,6 +6,7 @@ function greet(name) {
 }
 
 greet("World");
+```
 
 - [x] List syntax is required
 - [x] This item is complete
